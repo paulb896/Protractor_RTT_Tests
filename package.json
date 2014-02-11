@@ -1,0 +1,10 @@
+{
+  "name": "Pro_Clubs_E2E_Tests",
+  "description": "Protractor E2E tests",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "protractor": "0.18.1",
+    "selenium-webdriver": "2.39.0"
+  }
+}
